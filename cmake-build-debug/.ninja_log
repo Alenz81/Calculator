@@ -1,0 +1,16 @@
+# ninja log v5
+1	272	7188478458131479	CMakeFiles/Calculator.dir/ShuntingYard.cpp.obj	178ea984983e2291
+18	278	7188478458177785	CMakeFiles/Calculator.dir/RPN.cpp.obj	4440f21128cd087e
+3	405	7194211463868186	CMakeFiles/Calculator.dir/main.cpp.obj	31ad65e200c99e82
+15	616	7194211360220632	CMakeFiles/Calculator.dir/ButtonBoard.cpp.obj	be98d88a14f307b2
+4	515	7194212100402248	CMakeFiles/Calculator.dir/Application.cpp.obj	bb1db4e59e967cc2
+12	576	7194211359813058	CMakeFiles/Calculator.dir/Button.cpp.obj	f5bb58255cc2c4b5
+24	497	7194173414907987	CMakeFiles/Calculator.dir/Helper.cpp.obj	92389d1f710bc69a
+3	408	7194175706750996	CMakeFiles/Calculator.dir/Engine.cpp.obj	a51a069b1f2d6f19
+26	870	7194036859299306	CMakeFiles/Calculator.dir/Screen.cpp.obj	9e8aa86c4942856c
+4	583	7194587985605227	CMakeFiles/Calculator.dir/PostFix.cpp.obj	8a76a3a813df982e
+584	1501	7194587994730650	Calculator.exe	273a40931886868e
+16	625	7194209481167473	CMakeFiles/Calculator.dir/Display.cpp.obj	6a0edf99175390d5
+2	990	7210101244080437	build.ninja	25b91dffab704781
+19	549	7194211359534831	CMakeFiles/Calculator.dir/CalcBody.cpp.obj	2d8e19e0f6329f2
+7	1821	7320800097452450	Calculator.exe	fa3a81b83116caae
